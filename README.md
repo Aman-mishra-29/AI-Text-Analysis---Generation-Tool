@@ -1,4 +1,3 @@
-# AI-Text-Analysis---Generation-Tool
 # AI Text Analysis & Generation Tool
 
 A full-stack Natural Language Processing (NLP) web application that combines **text summarization, plagiarism detection, semantic similarity analysis, and grammar correction** in a single interface.
